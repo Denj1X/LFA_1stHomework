@@ -1,2 +1,2 @@
-# LFA_solutions
-Here we got some solutions for different and basic Automata problems.
+# LFA_1stHomework
+Here we got DFA/NFA checking/pathfinding if the given word is accepted
